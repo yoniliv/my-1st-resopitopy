@@ -1,6 +1,6 @@
 body{
   text-align: center;
   background-color:#ffffff}
-.nav a:hover {
-  backround-color: yellow;
+.nav-link:hover{
+color: yellow;
 }
